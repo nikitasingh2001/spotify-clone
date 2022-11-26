@@ -1,0 +1,45 @@
+ /* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap') */
+
+body
+{
+    width :100%;
+    height :100%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background-color: #1ab81a; 
+} 
+
+header
+{   margin-left: 35%;
+    margin-right: 1%;
+    width :95%;
+    height :95%;
+    border: 1px solid #fff;
+}  
+.play_side_head 
+{ 
+    box-sizing: border-box;
+    font-style: italic;
+    font-size: large;
+    align-content: center;
+    justify-content:center ;
+    margin-left: 80%;
+}
+.signupstyle
+{
+    box-sizing: border-box;
+    box-shadow: rgb(14, 22, 19);
+    background-color: #fff;
+    font-display: black;
+    box-decoration-break: slice;
+}
+.play_side_head .loginstyle
+{
+    box-sizing: border-box;
+    box-shadow: rgb(241, 243, 242);
+    background-color:black;
+    font-display: white;
+    box-decoration-break: slice;
+}
